@@ -1,0 +1,10 @@
+[package]
+name = "jabra-sys"
+version = "0.1.0"
+authors = ["Giorgio Azzinnaro <giorgio@azzinna.ro>"]
+edition = "2021"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.59.2"
